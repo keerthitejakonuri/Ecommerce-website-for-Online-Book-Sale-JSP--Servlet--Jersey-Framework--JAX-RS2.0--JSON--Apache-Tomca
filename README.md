@@ -4,3 +4,5 @@
 •	Implemented TLS/SSL cryptographic protocols for secure communications, Data Compression technique gZip.
 •	All the Web Services are hosted on a different Application Server than the Web Server containing the website are loosely coupled units of functionalities that are self-contained and implemented via RESTful methodologies.
 
+
+
